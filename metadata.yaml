@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41692'
     url: http://www.gutenberg.org/2009/agents/41692
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42448#La-distanza
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2013-03-31'
 gutenberg_type: Text
