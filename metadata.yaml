@@ -1,0 +1,28 @@
+_repo: La-distanza_42448
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42448-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lopez, Sabatino
+    birthdate: 1867
+    deathdate: 1951
+    gutenberg_agent_id: '41692'
+    url: http://www.gutenberg.org/2009/agents/41692
+description: ''
+gutenberg_bookshelf: IT Teatro in prosa
+gutenberg_issued: '2013-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42448'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Italian drama -- 20th century'
+- !lcc 'PQ'
+title: 'La distanza: commedia in tre atti'
+url: http://www.gutenberg.org/ebooks/42448
